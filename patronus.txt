@@ -14,5 +14,8 @@ LILY'S PATRONUS
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
+<<<<<<< HEAD
      new data
+=======
+>>>>>>> lily
      hheheheheh
